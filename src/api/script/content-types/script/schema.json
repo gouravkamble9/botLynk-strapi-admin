@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "scripts",
+  "info": {
+    "singularName": "script",
+    "pluralName": "scripts",
+    "displayName": "script"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "embedded_script": {
+      "type": "text"
+    }
+  }
+}
